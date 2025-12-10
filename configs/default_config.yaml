@@ -1,0 +1,9 @@
+model_name: distilbert-base-uncased
+max_length: 512
+device: cpu
+fields:
+  - patient_name
+  - bill_date
+  - total_amount
+  - hospital_name
+  - procedure_list

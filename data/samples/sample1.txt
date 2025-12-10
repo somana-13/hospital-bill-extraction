@@ -1,0 +1,9 @@
+Patient Name: John Doe
+Hospital: City Health Center
+Bill Date: 05/22/2024
+
+Procedures:
+1. Blood Test
+2. MRI Scan
+
+Total Amount: $620.00
